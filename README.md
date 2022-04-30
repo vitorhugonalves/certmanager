@@ -13,3 +13,6 @@ Linguagem:
 Banco de dados:
   - NoSQL
   
+Recursos:
+  - MultiTenant
+  - Autenticação OAuth
